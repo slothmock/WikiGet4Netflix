@@ -12,4 +12,8 @@ Install the requirements.txt with
 
 ## Usage
 
-To use WikiGet4Netflix, simply run the python file.
+To use WikiGet4Netflix, simply run the appropriate python file.
+
+## GUI
+
+The GUI Version loads all of the data on start so there may be a slight delay in opening the application.
