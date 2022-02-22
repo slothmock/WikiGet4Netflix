@@ -8,7 +8,7 @@ Written in Python 3.8.10.
 To use WikiGet4Netflix, ensure you have pip installed. To install pip, go [here](https://pip.pypa.io/en/stable/installation/).  
 Install the requirements.txt with  
   
-```pip install -r requirements.txt```
+```pip3 install -r requirements.txt```
 
 ## Usage
 
