@@ -1,5 +1,5 @@
 # WikiGet4Netflix
-A web scraper that gets a current (Wikipedia) list of Netflix Originals (2015-2022)  
+A web scraper that gets a current (Wikipedia) list of Netflix Originals (2015-Present)  
 
 Written in Python 3.8.10.
   
